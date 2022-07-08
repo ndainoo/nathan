@@ -43,6 +43,9 @@ code {
 pre {
   padding: 1em;
 }
+centerthis{
+  text-align: center;
+}
 
 a {
   color: #e81c4f;
@@ -76,6 +79,7 @@ header {
   line-height: 1.2;
   padding: 10vw 2em;
   text-align: center;
+  width: 100%
 }
 header img {
   display: inline-block;
