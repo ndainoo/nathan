@@ -1,6 +1,6 @@
 body {
   margin: 0 auto;
-  max-width: 50em;
+  max-width: 100%;
 }
 
 body {
@@ -72,7 +72,7 @@ body {
 }
 
 header {
-  background-color: #263d36;
+  background-color: black;
   
   background-position: center top;
   background-size: cover;
@@ -110,4 +110,9 @@ header a {
 header a:hover {
   background:  #e81c4f;
   color: white;
+}
+
+
+body2 {
+  color: #white;
 }
